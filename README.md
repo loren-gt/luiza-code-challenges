@@ -12,4 +12,4 @@ Proposta de solução dos desafios durante a aceleração do Luiza Code
 
   Crie uma função que retorne o IMC e o ano de nascimento dessas pessoas, respectivamente
 
-  Resposta: ver arquivo `challenge-1.js`
+  Resposta: ver arquivos `challenge-1.js` e `challenge-1-2.js`
